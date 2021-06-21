@@ -37,7 +37,7 @@ require (
 	github.com/nakabonne/nestif v0.3.0
 	github.com/nishanths/exhaustive v0.0.0-20200708172631-8866003e3856
 	github.com/pkg/errors v0.9.1
-	github.com/ryancurrah/gomodguard v1.1.0
+	github.com/ryancurrah/gomodguard v1.2.2
 	github.com/ryanrolds/sqlclosecheck v0.3.0
 	github.com/securego/gosec/v2 v2.4.0
 	github.com/shazow/go-diff v0.0.0-20160112020656-b6b7b6733b8c
@@ -59,7 +59,7 @@ require (
 	github.com/uudashr/gocognit v1.0.1
 	github.com/valyala/quicktemplate v1.6.2
 	golang.org/x/tools v0.0.0-20200812195022-5ae4c3c160a0
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	honnef.co/go/tools v0.0.1-2020.1.5
 	mvdan.cc/gofumpt v0.0.0-20200709182408-4fd085cb6d5f
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed
